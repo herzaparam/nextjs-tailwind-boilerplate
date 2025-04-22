@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "github.vscode-github-actions",
+    "lokalise.i18n-ally"
+  ]
+}
